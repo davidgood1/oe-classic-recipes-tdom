@@ -1,0 +1,5 @@
+OpenEmbedded Classic Recipe for tDOM (A fast XML/DOM/XPath package for Tcl written in C)
+
+This recipe should probably go in <oe_base_dir>/user-layer/recipes/tdom/
+
+To build, simply bitbake tdom
